@@ -2,9 +2,9 @@
 <h2 align="left">Hi 👋! My name is Víctor and I'm a developer</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victorcu396&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victorcu396&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Victorcu396&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victorcu396&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
 <img align="right" height="150" src="https://i.imgur.com/uHZFSg3.jpeg" />
 
 <div align="left">
