@@ -1,5 +1,7 @@
-
-<h2 align="left">Hi 👋! My name is Víctor and I'm a developer</h2>
+<div align="center">
+  <img src="./github-header-banner.png" alt="Banner" width="100%"/>
+</div>
+![Banner](https://tu-url-de-imagen.com/imagen.png)
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Victorcu396&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
