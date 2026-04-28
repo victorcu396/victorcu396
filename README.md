@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Victorcu396&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" />
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Victorcu396&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
-<img align="right" height="135" src="https://i.imgur.com/uHZFSg3.jpeg" />
+<img align="right" height="150" src="https://i.imgur.com/uHZFSg3.jpeg" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
